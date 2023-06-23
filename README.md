@@ -1,6 +1,7 @@
 # Tutorial: Belajar Go sekarang juga
 
 Daftar Isi
+
 * [Prasyaratan-prasyaratan](PRASYARATAN.md)
 * [Memasang Go](PEMASANGAN.md)
 * [Memanggil kode Go di dalam paket eksternal](PANGGILKODEGOPAKETEKSTERNAL.md)
