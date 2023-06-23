@@ -1,10 +1,10 @@
 # Tutorial: Belajar Go sekarang juga
 
 Daftar Isi
-[Prasyaratan-prasyaratan](PRASYARATAN.md)
-[Memasang Go](PEMASANGAN.md)
-[Memanggil kode Go di dalam paket eksternal](PANGGILKODEGOPAKETEKSTERNAL.md)
-[Menulis banyak kode](MENULISBANYAK.md)
+* [Prasyaratan-prasyaratan](PRASYARATAN.md)
+* [Memasang Go](PEMASANGAN.md)
+* [Memanggil kode Go di dalam paket eksternal](PANGGILKODEGOPAKETEKSTERNAL.md)
+* [Menulis banyak kode](MENULISBANYAK.md)
 
 Pada tutorial ini, Anda akan diperkenalkan secara ringkas pemrograman Go. Sepanjang perjalanan, Anda akan:
 - Memasang Go (Jika Anda belum sama sekali melakukannya).
